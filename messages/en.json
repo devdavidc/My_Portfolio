@@ -1,0 +1,48 @@
+{
+  "Hero": {
+    "Header": "Software developer",
+    "title": "Clean frontend, solid backend, no drama.",
+    "subtitle": "I'm David, a Fullstack developer.",
+    "button1": "Get to know me",
+    "button2": "Download my CV"
+  },
+  "About": {
+    "Header": "About me",
+    "first_paragraph": "I'm a junior developer with a strong focus on building practical, user-centered applications. I enjoy working on projects that solve real problems, from personal tools to business-focused platforms. My background combines hands-on technical experience with a continuous desire to learn and improve, whether it's through web development, mobile apps, or backend systems.",
+    "second_paragraph": "I'm especially drawn to clean design, intuitive interfaces, and efficient code. I like understanding how things work under the hood and bringing ideas to life through structured, maintainable development. Every project is an opportunity to grow and refine not only my technical skills, but also my ability to collaborate and deliver meaningful results.",
+    "third_paragraph": "I'm currently looking to join a team where I can contribute to real products, learn from experienced developers, and keep growing as a developer committed to building software that truly makes a difference."
+  },
+  "Experience": {
+    "Header": "My Journey so far",
+    "subtitle": "Highlights from my journey",
+    "description": "Here's a timeline showcasing the key milestones and experiences that have shaped my path in tech."
+  },
+  "Stack": {
+    "Header": "My Stack"
+  },
+  "Projects": {
+    "Header": "My Projects"
+  },
+  "Contact": {
+    "Header": "Contact",
+    "description": "You can reach out to me for any inquiries, collaborations, or just to say hello! Fill out the form below and I will get back to you ASAP.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    }
+  },
+  "Footer": {
+    "description": "&copy; 2025 David C.M. All rights reserved."
+  },
+  "NavBar": {
+    "Home": "Home",
+    "About": "About",
+    "Experience": "Experience",
+    "Stack": "Stack",
+    "Projects": "Projects",
+    "Contact": "Contact"
+  }
+
+}
