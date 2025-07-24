@@ -35,9 +35,9 @@ export const projectsEn: Project[] = [
   {
     id: 4,
     projectTitle: "Recipe App",
-    projectDescription: "A mobile recipe app developed using React Native + Expo, Express and MongoD that allows users to create and save their favorite recipes.",
+    projectDescription: "A mobile recipe app developed using React Native + Expo, Express and MongoDB that allows users to create and save their favorite recipes. CURRENTLY IN DEVELOPMENT.",
     projectImage: "/images/project4.png",
-    projectSourceCode: "https://github.com/devdavidc/recipe-app",
+    projectSourceCode: "https://github.com/devdavidc/RecipeApp",
     projectTechnologies: ["React Native", "Expo", "Express", "MongoDB", "NativeWind", "TypeScript"]
   }
 ]

@@ -8,42 +8,14 @@
   },
   "About": {
     "Header": "Sobre mí",
-    "first_paragraph": "Soy un desarrollador junior con un enfoque claro en crear aplicaciones prácticas y centradas en el usuario. Me gusta trabajar en proyectos que resuelven problemas reales, desde herramientas personales hasta plataformas orientadas a negocios. Mi experiencia combina práctica técnica con muchas ganas de aprender y mejorar constantemente, ya sea desarrollando para web, móviles o backend.",
-    "second_paragraph": "Me atrae especialmente el diseño limpio, las interfaces intuitivas y un código eficiente. Disfruto entendiendo cómo funcionan las cosas por dentro y transformando ideas en productos reales mediante un desarrollo bien estructurado y mantenible. Cada proyecto es una oportunidad para crecer, tanto en lo técnico como en lo humano: colaborar y entregar resultados con impacto.",
+    "first_paragraph": "Soy un desarrollador junior con un enfoque claro en crear aplicaciones prácticas y centradas en el usuario. Me gusta trabajar en proyectos que resuelven problemas reales, desde herramientas personales hasta plataformas orientadas a negocios. Mi experiencia combina práctica técnica con muchas ganas de aprender y mejorar constantemente,desarrollando para todo tipo de dispositivos y plataformas.",
+    "second_paragraph": "Me atrae especialmente el diseño limpio, las interfaces intuitivas y un código eficiente. Disfruto entendiendo cómo funcionan las cosas por dentro y transformando ideas en productos reales mediante un desarrollo bien estructurado y mantenible. Pienso que cada proyecto es una oportunidad para crecer, tanto en lo técnico como en lo humano: colaborar y entregar resultados que causen un impacto positivo.",
     "third_paragraph": "Actualmente estoy buscando un equipo donde pueda aportar en proyectos reales, aprender de profesionales con experiencia y seguir creciendo como desarrollador comprometido con crear software que realmente marque la diferencia."
   },
   "Experience": {
-    "Header": "Mi camino hasta ahora",
+    "Header": "Mi experiencia",
     "subtitle": "Lo más destacado de mi recorrido",
-    "description": "Aquí tienes una línea de tiempo con los momentos clave y experiencias que han marcado mi trayectoria en el mundo tech.",
-    "list": [
-      {
-        "title": "2025 Inerza S.A.",
-        "content": [
-          "Diseño y desarrollo de un agente IA totalmente local basado en RAG (Retrieval-Augmented Generation) y servidores MCP, orientado a interpretar y responder con precisión preguntas sobre documentos en diversos formatos con comprensión contextual.",
-          "Integración de n8n como orquestador de flujos, PostgreSQL con PGVector para almacenamiento vectorial y modelos de lenguaje de Ollama y OpenAI. Toda la infraestructura se desplegó con Docker Compose para garantizar consistencia y escalabilidad.",
-          "Frontend en React y backend en Express para gestionar las consultas de usuario, mientras que los servidores MCP (en Python) coordinaban los distintos módulos. El proyecto se realizó con un alto grado de autonomía, desde la investigación hasta la implementación y resolución de problemas."
-        ],
-        "image": "/images/inerza1.png",
-        "alt": "Logo de Inerza"
-      },
-      {
-        "title": "2023 - 2025 Desarrollo de Aplicaciones Multiplataforma",
-        "content": [
-          "Estudios cursados en el IES Lomo de La Herradura, donde adquirí una sólida base en desarrollo de software, con enfoque en Java y programación orientada a objetos.",
-          "También obtuve experiencia práctica en desarrollo web (HTML, CSS, JavaScript) y metodologías ágiles como Scrum. El programa reforzó habilidades de colaboración, comunicación clara y resolución estructurada de problemas."
-        ],
-        "image": "/images/herradura1.png",
-        "alt": "Logo de Herradura"
-      },
-      {
-        "title": "2021 - 2023 Administración y Finanzas",
-        "content": [
-          "Estudios realizados en el IES El Calero, centrados en gestión financiera, principios contables y operaciones empresariales.",
-          "Desarrollé habilidades clave en análisis financiero, presupuestación y planificación estratégica, que me ayudan a entender y afrontar retos reales del entorno empresarial."
-        ]
-      }
-    ]
+    "description": "Aquí tienes una línea de tiempo con los momentos clave y experiencias que han marcado mi trayectoria en el mundo tech."
   },
   "Stack": {
     "Header": "Mi Stack"

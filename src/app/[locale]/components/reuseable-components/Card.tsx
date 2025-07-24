@@ -1,5 +1,5 @@
 import React from 'react'
-import { CardBody, CardContainer, CardItem } from "@/src/app/components/ui/3d-card";
+import { CardBody, CardContainer, CardItem } from "../ui/3d-card";
 import { SkillCard } from '@/data/skills';
 
 

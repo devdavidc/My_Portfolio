@@ -20,9 +20,6 @@ export interface SkillCard {
         { title: "Teamwork", description: "Ability to work collaboratively in a team environment." },
         { title: "Problem Solving", description: "Strong analytical and problem-solving abilities." },
         { title: "Time Management", description: "Efficiently managing time and prioritizing tasks." },
-        { title: "Certified JavaScript Developer", description: "Certification in advanced JavaScript programming." },
-        { title: "React Certification", description: "Official certification for React development." },
-        { title: "Node.js Certification", description: "Certification in server-side development with Node.js." },
       ],
     },
     {
